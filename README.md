@@ -1,5 +1,8 @@
 # Testing Live
-
+- Use the following URL to test the API
+- `https://server-98g7.onrender.com/players`
+#### Note: The above URL is hosted on [Render](https://render.com/)
+     Due to inactivity, serve may take some time to respond. Please be patient.
 
 
 # Setting Up Server Locally
